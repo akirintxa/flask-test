@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello():
-    return 'Hola pepsicola'
+    return 'Hola pepsicola o cocacola'
 
 
 # Para ejecutar el servidor FLASK
